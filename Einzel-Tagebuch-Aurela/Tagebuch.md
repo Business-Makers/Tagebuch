@@ -13,5 +13,10 @@ Woche **17** [22.04.2024 bis 28.04.2024]
 | 25.04.2024 | Meeting mit Simon und Philipp zum Gestalten von Mockups und Userstories |        3h |
 
 
+Woche **18** [29.04.2024 bis 05.05.2024]
 
+| **Datum**  |                              **Tätigkeit**                              | **Dauer** |
+|:-----------|:-----------------------------------------------------------------------:|----------:|
+| 30.04.2024 | Installation von Figma, Account erstellt, Tutorial angeguckt  |      1h |
+| 25.04.2024 | Meeting mit Simon und Philipp zum Gestalten von Mockups und Userstories |        3h |
 ---
