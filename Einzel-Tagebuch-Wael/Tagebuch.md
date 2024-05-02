@@ -16,3 +16,11 @@ Woche **17** [22.04.2024 bis 28.04.2024]
 | 24.04.2024     |   Meeting   | 2 h |
 | 25.04.2024         |   Entity-Relationship-Modell | 2 h |
 |          |    | 5 h |
+---
+
+Woche **18** [29.04.2024 bis 05.05.2024]
+| **Datum**              | **Tätigkeit** | **Dauer** |
+| :---------------- | :------: | ----: |
+| 01.05.2024     |   Projektverlauf vorbereitet   | 1.5 h |
+| 02.05.2024         |   Meeting | 2 h |
+|          |    | 3.5 h |
