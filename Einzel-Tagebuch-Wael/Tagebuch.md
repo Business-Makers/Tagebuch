@@ -23,4 +23,5 @@ Woche **18** [29.04.2024 bis 05.05.2024]
 | :---------------- | :------: | ----: |
 | 01.05.2024     |   Projektverlauf vorbereitet   | 1.5 h |
 | 02.05.2024         |   Meeting | 2 h |
-|          |    | 3.5 h |
+| 03.05.2024         |   Kommunikationsablauf in Readme | 2 h |
+|          |    | 5.5 h |
