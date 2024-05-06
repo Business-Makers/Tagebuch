@@ -12,6 +12,7 @@ Woche **18** [29.04.2024 bis 05.05.2024]
 
 | **Datum**      | **Tätigkeit** | **Dauer** |
 | :------------: | :-----------: | :-------: |
-| 02.05.2024 | Meeting zur vorläufigen Beendigung des Pflichtenheftes | 2,5h |
+| 02.05.2024 | Meeting zur vorläufigen Beendigung des Pflichtenheftes | 2h |
 | 03.05.2024 | Verbesserung der Mockups mit Figma - Beginn | 3h |
 | 04.05.2024 | Mockups vorerst fertiggestellt - Besitzen nun auch Prototyp | 4h |
+| Gesamt: | | 9h |
