@@ -19,6 +19,6 @@ Woche **18** [29.04.2024 bis 05.05.2024]
 |:-----------|:-----------------------------------------------------------------------:|----------:|
 | 30.04.2024 | Installation von Figma, Account erstellt, Tutorial angeguckt  |      1h |
 | 02.05.2024 | Gruppenmeeting mit allen zur Besprechung der zweiten Aufgabe |        3h |
-| 03.05.2024 | Logo erstellen und den Gruppenmitgliedern vorschlagen | 1.5h |
-| 04.05.2024 | Vorstellung anderer Logovorschläge und Endauswahl | 1.5h |
+| 03.05.2024 | Logo erstellen, Tutorials angeschaut und den Gruppenmitgliedern vorschlagen | 2h |
+| 05.05.2024 | Vorstellung anderer Logovorschläge und Endauswahl | 0.5h |
 ---
