@@ -34,4 +34,5 @@ Woche **19** [06.05.2024 bis 12.05.2024]
 | :---------------- | :------: | ----: |
 | 09.05.2024         |   Meeting, Pro­to­koll | 1 h |
 | 09.05.2024         |   Kon­fi­gu­ra­ti­on | 2 h |
-|          |    | 3 h |
+| 12.05.2024         |   umgebung bereitgestellt | 3.5 h |
+|          |    | 6.5 h |
