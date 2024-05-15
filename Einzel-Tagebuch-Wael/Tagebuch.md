@@ -36,3 +36,11 @@ Woche **19** [06.05.2024 bis 12.05.2024]
 | 09.05.2024         |   Kon­fi­gu­ra­ti­on | 2 h |
 | 12.05.2024         |   umgebung bereitgestellt | 3.5 h |
 |          |    | 6.5 h |
+
+---
+Woche **20** [13.05.2024 bis 19.05.2024]
+| **Datum**              | **Tätigkeit** | **Dauer** |
+| :---------------- | :------: | ----: |
+| 14.05.2024         |   Über Validirung und Hasching informiert | 2 h |
+| 15.05.2024         |   Meeting, Pro­to­koll, Hashing, Validierung, Database-Verbindung | 3 h |
+|          |    | 5 h |
