@@ -32,4 +32,5 @@ Woche **20** [13.05.2024 bis 19.05.2024]
 | 13.05.2024 | Meeting mit Simon zur Besprechung der Seitenerstellung | 1.5h |
 | 14.05.2024 | Erstellung der Login-Seite - Frontend | 2h |
 | 15.05.2024 | Implementierung von Verknüpfung mehrerer Seiten | 2h |
+| 15.05.2024 | Wöchentliches Meeting - Einrichtung des Frontends | 3h |
 | Gesamt: | | h |
