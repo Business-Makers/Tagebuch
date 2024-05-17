@@ -43,4 +43,5 @@ Woche **20** [13.05.2024 bis 19.05.2024]
 | :---------------- | :------: | ----: |
 | 14.05.2024         |   Über Validirung und Hasching informiert | 2 h |
 | 15.05.2024         |   Meeting, Pro­to­koll, Hashing, Validierung, Database-Verbindung | 3 h |
-|          |    | 5 h |
+| 17.05.2024         |   Hashing, Validierung, Database-Verbindung | 4 h |
+|          |    | 9 h |
