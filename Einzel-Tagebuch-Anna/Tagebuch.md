@@ -13,4 +13,6 @@ Woche **16** [15.04.2024 bis 21.04.2024]
 | 12.05.2024     |  Versuche Server Verbindung herzustellen  |  4.5h |
 | 14.05.2024     |  Wissensaneignung Bibliotheken aka Recherche |  1.5h |
 | 15.05.2024     |  Datenbank erstellt, Hashing,Validierung  |  3.5h |
+| 17.05.2024     |  API, erste Test Versuche   |  3.5h |
+| 21.05.2024     |  Tests ueberarbeitet   |  2.0h |
 ---
