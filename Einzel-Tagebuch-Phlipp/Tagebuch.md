@@ -33,4 +33,16 @@ Woche **20** [13.05.2024 bis 19.05.2024]
 | 14.05.2024 | Erstellung der Login-Seite - Frontend | 2h |
 | 15.05.2024 | Implementierung von Verknüpfung mehrerer Seiten | 2h |
 | 15.05.2024 | Wöchentliches Meeting - Einrichtung des Frontends | 3h |
-| Gesamt: | | h |
+| Gesamt: | | 8.5h |
+
+Woche **20** [20.05.2024 bis 26.05.2024]
+
+| **Datum**      | **Tätigkeit** | **Dauer** |
+| :------------: | :-----------: | :-------: |
+| 20.05.2024 | Login- und Registierseiten optisch fertiggestellt | 2h |
+| 21.05.2024 | CSS- und Formatierungs-Probleme gelöst | 2h |
+| 21.05.204 | Versuchte Implementierung des Logins mit Wael | 4h |
+| 22.05.2024 | Login im Frontend fertiggestellt | 1h |
+| 22.05.2024 | Wöchentliches Meeting - Vorbereitung der Vorstellung vom MVP | 1h |
+| 22.05.2024 | Frontend-Implementierung der Registrierung | 1.5h |
+
