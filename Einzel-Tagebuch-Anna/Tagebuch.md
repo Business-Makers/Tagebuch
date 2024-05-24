@@ -15,4 +15,6 @@ Woche **16** [15.04.2024 bis 21.04.2024]
 | 15.05.2024     |  Datenbank erstellt, Hashing,Validierung  |  3.5h |
 | 17.05.2024     |  API, erste Test Versuche   |  3.5h |
 | 21.05.2024     |  Tests ueberarbeitet   |  2.0h |
+| 23.05.2024     |  Meeting mit Wael, naechste Schritte besprechen  |  0.5h |
+| 24.05.2024     |  Code strukturiert und dokumentiert, außerdem Passwort zurücksetzen begonnen   |  2.0h |
 ---
