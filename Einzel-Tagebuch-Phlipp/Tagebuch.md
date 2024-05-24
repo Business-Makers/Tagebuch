@@ -45,4 +45,7 @@ Woche **20** [20.05.2024 bis 26.05.2024]
 | 22.05.2024 | Login im Frontend fertiggestellt | 1h |
 | 22.05.2024 | Wöchentliches Meeting - Vorbereitung der Vorstellung vom MVP | 1h |
 | 22.05.2024 | Frontend-Implementierung der Registrierung | 1.5h |
-
+| 23.05.2024 | Meeting mit Simon zum Mergen der beiden Frontend-Branches | 1h |
+| 24.05.2024 | Implementierung von Testklassen | 2h |
+| 24.05.2024 | Meeting mit Simon zum Dokumentieren und Bearbeitung der Subscription | 2h |
+| Gesamt: | | 16.5h |
