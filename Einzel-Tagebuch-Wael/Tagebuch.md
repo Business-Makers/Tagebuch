@@ -52,5 +52,6 @@ Woche **21** [20.05.2024 bis 26.05.2024]
 | 22.05.2024         |   Login Endpunkt | 4 h |
 | 23.05.2024         |   Meeting | 1 h |
 | 23.05.2024         |   Signup Endpunkt | 5 h |
-|          |    | 10 h |
+| 24.05.2024         |   API Dokumentation | 1 h |
+|          |    | 11 h |
 
