@@ -53,5 +53,6 @@ Woche **21** [20.05.2024 bis 26.05.2024]
 | 23.05.2024         |   Meeting | 1 h |
 | 23.05.2024         |   Signup Endpunkt | 5 h |
 | 24.05.2024         |   API Dokumentation | 1 h |
-|          |    | 11 h |
+| 26.05.2024         |  Validation-Methods-Username,Password, email, phoneNumber,user_registration, Mergen, Meeting    | 8 h |
+|**Gesamt**          |    | 19 h |
 
