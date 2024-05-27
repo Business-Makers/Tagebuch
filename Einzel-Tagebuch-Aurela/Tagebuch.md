@@ -40,6 +40,8 @@ Woche **20** [13.05.2024 bis 19.05.2024]
 | :------------: | :-----------: | :-------: |
 | 14.05.2024 | Tutorials zu Docker und Github Actions angeschaut & kleine Tests| 2h |
 | 15.05.2024 | Wöchentliches Meeting | 3h |
+| 18.05.2024  | Ansehen verschiedener Tutorials zur Docker-Konfiguration | |
+| | Ergebnis : Obwohl mehrere Tutorials angesehen wurden, blieben Verständnisprobleme und Unsicherheit darüber, wie die Aufgabe angegangen werden sollte. | |
 | Gesamt: | | 5h |
 
 Woche **21** [20.05.2024 bis 26.05.2024]
