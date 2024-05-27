@@ -48,9 +48,9 @@ Woche **21** [20.05.2024 bis 26.05.2024]
 | :------------: | :-----------: | :-------: |
 | 20.05.2024 | Weitere Tests| 2h |
 | 21.05.2024 | Anfang der Implementierung | 3h |
-| 23.05.2024 | Recherche und erste Versuche zur Lösung von Abhängigkeitskonflikten in Docker
-Erste Recherchen auf StackOverflow und in der npm-Dokumentation bezüglich ERESOLVE-Fehler.
-Versuch, grundlegende Lösungsmöglichkeiten zu verstehen und zu notieren.| 7h |
+| 23.05.2024 | Recherche und erste Versuche zur Lösung von Abhängigkeitskonflikten in Docker | | |
+| | Erste Recherchen auf StackOverflow und in der npm-Dokumentation bezüglich ERESOLVE-Fehler. | |
+| | Versuch, grundlegende Lösungsmöglichkeiten zu verstehen und zu notieren.| 7h |
 | 24.05.2024 | Detaillierte Recherche und Anwendung von Lösungsansätzen
 Weitere Recherche auf StackOverflow und in der npm-Dokumentation.
 Versuch, die Flags --legacy-peer-deps und --force zur npm ci-Befehlszeile im Dockerfile hinzuzufügen.
