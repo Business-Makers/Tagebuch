@@ -51,15 +51,15 @@ Woche **21** [20.05.2024 bis 26.05.2024]
 | 23.05.2024 | Recherche und erste Versuche zur Lösung von Abhängigkeitskonflikten in Docker | | |
 | | Erste Recherchen auf StackOverflow und in der npm-Dokumentation bezüglich ERESOLVE-Fehler. | |
 | | Versuch, grundlegende Lösungsmöglichkeiten zu verstehen und zu notieren.| 7h |
-| 24.05.2024 | Detaillierte Recherche und Anwendung von Lösungsansätzen
-Weitere Recherche auf StackOverflow und in der npm-Dokumentation.
-Versuch, die Flags --legacy-peer-deps und --force zur npm ci-Befehlszeile im Dockerfile hinzuzufügen.
-Ergebnisse : Die Abhängigkeitsfehler bestehen trotz der Änderungen weiterhin.| 9h |
-| 25.05.2024 | Aktualisierung der Versionen von react und @testing-library/react-hooks in der package.json.
-Testen des Docker-Builds mit den neuen Versionen.
-Ergebnisse : Teilweise Lösung der Fehler, aber es bestehen weiterhin Versionskonflikte mit anderen Paketen. | 8h |
-| 26.05.2024 | Analyse der Fehlermeldungen zur Identifizierung spezifischer Versionskonflikte.
-Konsultation von spezialisierten Foren und Dokumentationen der Pakete, um kompatible Versionen zu finden.
-Weitere Versuche 
-Ergebnis: Kein großes Fortschritt| 8h |
+| 24.05.2024 | Detaillierte Recherche und Anwendung von Lösungsansätzen | |
+| | Weitere Recherche auf StackOverflow und in der npm-Dokumentation. | |
+| | Versuch, die Flags --legacy-peer-deps und --force zur npm ci-Befehlszeile im Dockerfile hinzuzufügen. | |
+| | Ergebnisse : Die Abhängigkeitsfehler bestehen trotz der Änderungen weiterhin.| 9h |
+| 25.05.2024 | Aktualisierung der Versionen von react und @testing-library/react-hooks in der package.json. | |
+| | Testen des Docker-Builds mit den neuen Versionen. | |
+| | Ergebnisse : Teilweise Lösung der Fehler, aber es bestehen weiterhin Versionskonflikte mit anderen Paketen. | 8h |
+| 26.05.2024 | Analyse der Fehlermeldungen zur Identifizierung spezifischer Versionskonflikte. | |
+| | Konsultation von spezialisierten Foren und Dokumentationen der Pakete, um kompatible Versionen zu finden. | |
+| | Weitere Versuche | |
+| | Ergebnis: Kein großes Fortschritt| 8h |
 ---
