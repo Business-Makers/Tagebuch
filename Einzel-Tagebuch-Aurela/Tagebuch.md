@@ -59,5 +59,7 @@ Ergebnisse : Die Abhängigkeitsfehler bestehen trotz der Änderungen weiterhin.|
 Testen des Docker-Builds mit den neuen Versionen.
 Ergebnisse : Teilweise Lösung der Fehler, aber es bestehen weiterhin Versionskonflikte mit anderen Paketen. | 8h |
 | 26.05.2024 | Analyse der Fehlermeldungen zur Identifizierung spezifischer Versionskonflikte.
-Konsultation von spezialisierten Foren und Dokumentationen der Pakete, um kompatible Versionen zu finden. | 8h |
+Konsultation von spezialisierten Foren und Dokumentationen der Pakete, um kompatible Versionen zu finden.
+Weitere Versuche 
+Ergebnis: Kein großes Fortschritt| 8h |
 ---
