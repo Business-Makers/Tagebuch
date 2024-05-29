@@ -44,7 +44,7 @@ Woche **20** [13.05.2024 bis 19.05.2024]
 | 14.05.2024         |   Über Validirung und Hasching informiert | 2 h |
 | 15.05.2024         |   Meeting, Pro­to­koll, Hashing, Validierung, Database-Verbindung | 3 h |
 | 17.05.2024         |   Hashing, Validierung, Database-Verbindung | 4 h |
-|          |    | 9 h |
+| **Gesamt**         |    | 9 h |
 ---
 Woche **21** [20.05.2024 bis 26.05.2024]
 | **Datum**              | **Tätigkeit** | **Dauer** |
@@ -55,4 +55,13 @@ Woche **21** [20.05.2024 bis 26.05.2024]
 | 24.05.2024         |   API Dokumentation | 1 h |
 | 26.05.2024         |  Validation-Methods-Username,Password, email, phoneNumber,user_registration, Mergen, Meeting    | 8 h |
 |**Gesamt**          |    | 19 h |
+
+---
+Woche **22** [27.05.2024 bis 02.06.2024]
+| **Datum**              | **Tätigkeit** | **Dauer** |
+| :---------------- | :------: | ----: |
+| 29.05.2024         |   über idefeiziertung informiert, Aufgaben verteilt, Meeting | 2 h |
+|     **Gesamt**     |    | 2 h |
+
+
 
