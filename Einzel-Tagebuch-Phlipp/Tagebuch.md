@@ -35,13 +35,13 @@ Woche **20** [13.05.2024 bis 19.05.2024]
 | 15.05.2024 | Wöchentliches Meeting - Einrichtung des Frontends | 3h |
 | Gesamt: | | 8.5h |
 
-Woche **20** [20.05.2024 bis 26.05.2024]
+Woche **21** [20.05.2024 bis 26.05.2024]
 
 | **Datum**      | **Tätigkeit** | **Dauer** |
 | :------------: | :-----------: | :-------: |
 | 20.05.2024 | Login- und Registierseiten optisch fertiggestellt | 2h |
 | 21.05.2024 | CSS- und Formatierungs-Probleme gelöst | 2h |
-| 21.05.204 | Versuchte Implementierung des Logins mit Wael | 4h |
+| 21.05.2024 | Versuchte Implementierung des Logins mit Wael | 4h |
 | 22.05.2024 | Login im Frontend fertiggestellt | 1h |
 | 22.05.2024 | Wöchentliches Meeting - Vorbereitung der Vorstellung vom MVP | 1h |
 | 22.05.2024 | Frontend-Implementierung der Registrierung | 1.5h |
@@ -49,3 +49,11 @@ Woche **20** [20.05.2024 bis 26.05.2024]
 | 24.05.2024 | Implementierung von Testklassen | 2h |
 | 24.05.2024 | Meeting mit Simon zum Dokumentieren und Bearbeitung der Subscription | 3h |
 | Gesamt: | | 17.5h |
+
+Woche **22** [27.05.2024 bis 02.06.2024]
+
+| **Datum**      | **Tätigkeit** | **Dauer** |
+| :------------: | :-----------: | :-------: |
+| 27.05.2024 | Meeting mit Brunsmann bezüglich MVP | 1h |
+| 01.06.2024 | Meeting mit Simon und Wael zur Implementierung der Exchanges - währenddessen Ordnerstruktur und CSS überarbeitet | 5h |
+| Gesamt: | | |
