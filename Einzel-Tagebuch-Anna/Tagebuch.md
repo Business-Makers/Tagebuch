@@ -1,4 +1,3 @@
-Woche **16** [15.04.2024 bis 21.04.2024]
 
 | **Datum**              | **Tätigkeit** | **Dauer** |
 | :---------------- | :------: | ----: |
@@ -18,5 +17,7 @@ Woche **16** [15.04.2024 bis 21.04.2024]
 | 23.05.2024     |  Meeting mit Wael, naechste Schritte besprechen  |  0.5h |
 | 24.05.2024     |  Code strukturiert und dokumentiert, ausserdem Passwort zuruecksetzen begonnen   |  2.0h |
 | 26.05.2024     |  Mergen, Meeting, Validation  |  2h |
-| **Gesamt**     |    |  30h |
+| 29.05.2024     |  Wochen Meeting  |  1h |
+| 31.05.2024     | Recherche JWT, SMTP |  3.0h |
+| 01.06.2024     |  Venv neu, bug fixen, Login Token fuer Trades  |  5.5h |
 ---
