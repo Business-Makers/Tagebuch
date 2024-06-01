@@ -17,4 +17,6 @@ Woche **16** [15.04.2024 bis 21.04.2024]
 | 21.05.2024     |  Tests ueberarbeitet   |  2.0h |
 | 23.05.2024     |  Meeting mit Wael, naechste Schritte besprechen  |  0.5h |
 | 24.05.2024     |  Code strukturiert und dokumentiert, ausserdem Passwort zuruecksetzen begonnen   |  2.0h |
+| 26.05.2024     |  Mergen, Meeting, Validation  |  2h |
+| **Gesamt**     |    |  30h |
 ---
