@@ -61,7 +61,8 @@ Woche **22** [27.05.2024 bis 02.06.2024]
 | **Datum**              | **Tätigkeit** | **Dauer** |
 | :---------------- | :------: | ----: |
 | 29.05.2024         |   über idefeiziertung informiert, Aufgaben verteilt, Meeting | 2 h |
-|     **Gesamt**     |    | 2 h |
+| 01.06.2024         |   ExchangeConnetion, Tradingbots | 2 h |
+|     **Gesamt**     |    | 4 h |
 
 
 
