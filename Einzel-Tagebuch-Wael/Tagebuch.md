@@ -65,5 +65,11 @@ Woche **22** [27.05.2024 bis 02.06.2024]
 | 01.06.2024         |   ExchangeConnetion edited, Paypal class added | 3.5 h |
 |     **Gesamt**     |    | 7.5 h |
 
+---
+Woche **23** [03.06.2024 bis 09.06.2024]
+| **Datum**              | **Tätigkeit** | **Dauer** |
+| :---------------- | :------: | ----: |
+| 03.06.2024         |   Deployment mit Docker | 8 h |
+|     **Gesamt**     |    | 8 h |
 
 
