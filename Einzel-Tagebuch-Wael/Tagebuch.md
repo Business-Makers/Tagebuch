@@ -70,6 +70,7 @@ Woche **23** [03.06.2024 bis 09.06.2024]
 | **Datum**              | **Tätigkeit** | **Dauer** |
 | :---------------- | :------: | ----: |
 | 03.06.2024         |   Deployment mit Docker | 8 h |
-|     **Gesamt**     |    | 8 h |
+| 03.06.2024         |   Docker Frontend, Backend | 4 h |
+|     **Gesamt**     |    | 12 h |
 
 
