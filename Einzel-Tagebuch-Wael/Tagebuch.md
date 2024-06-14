@@ -72,6 +72,13 @@ Woche **23** [03.06.2024 bis 09.06.2024]
 | :---------------- | :------: | ----: |
 | 03.06.2024         |   Docker Frontend, Backend | 4 h |
 | 05.06.2024         |   Grafana, Jenkins | 4 h |
-|     **Gesamt**     |    | 8 h |
+| 09.06.2024         |   ConnectExchange | 6 h |
+|     **Gesamt**     |    | 14 h |
 
-
+---
+Woche **24** [10.06.2024 bis 06.06.2024]
+| **Datum**              | **Tätigkeit** | **Dauer** |
+| :---------------- | :------: | ----: |
+| 10.06.2024         |   bugs fixed | 4 h |
+| 13.06.2024         |   Paypal | 2.5 h |
+|     **Gesamt**     |    | 6.5 h |
