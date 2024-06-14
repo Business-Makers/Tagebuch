@@ -24,6 +24,7 @@
 | 04.06.2024     |  Mail Anbieter fixes  |  0.5h |
 | 05.06.2024     |  Doc Strings und Refactoring  |  1.5h |
 | 07.06.2024     |  Token fuer Trades ueberarbeitet und SMTP Registrierungs Fehler behoben  |  3h |
-| 09.06.2024     |  <bug fixes & Versuch Pytest = gescheitert> |  7.0 |
+| 09.06.2024     |  Bug fixes & Versuch Pytest = gescheitert> |  7.0 |
+| 10.06.2024     |  Bug fixes |  3.5h |
 | 14.06.2024     |  Beginn Trades bzw primaer webSocket  |  0.5h |
 ---
