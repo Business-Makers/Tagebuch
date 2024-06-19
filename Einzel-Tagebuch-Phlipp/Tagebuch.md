@@ -56,4 +56,31 @@ Woche **22** [27.05.2024 bis 02.06.2024]
 | :------------: | :-----------: | :-------: |
 | 27.05.2024 | Meeting mit Brunsmann bezüglich MVP | 1h |
 | 01.06.2024 | Meeting mit Simon und Wael zur Implementierung der Exchanges - währenddessen Ordnerstruktur und CSS überarbeitet | 5h |
-| Gesamt: | | |
+| 02.06.2024 | Verbesserung der Exchange-Struktur im Dashboard | 2h |
+| Gesamt: | | 8h |
+
+Woche **23** [03.06.2024 bis 09.06.2024]
+
+| **Datum**      | **Tätigkeit** | **Dauer** |
+| :------------: | :-----------: | :-------: |
+| 05.06.2024 | Ordnerstruktur verbessert und Testklassen hinzugefügt/bearbeitet | 4h |
+| 09.06.2024 | Gruppenmeeting, um den Exchange im Frontend anzuzeigen | 5h |
+| Gesamt: | | 9h |
+
+Woche **24** [10.06.2024 bis 16.06.2024]
+
+| **Datum**      | **Tätigkeit** | **Dauer** |
+| :------------: | :-----------: | :-------: |
+| 10.06.2024 | Vorbereitung aufs Meeting | 3h |
+| 10.06.2024 | Meeting mit Brunsmann | 1h |
+| 10.06.2024 | Nachbereitung des Meetings, Besprechung der nächsten Schritte | 1h |
+| 12.06.2024 | Wöchentliches Meeting | 1,5h |
+| 15.06.2024 | Meeting mit Simon zur Graphischen Darstellung des Dashboards | 4h |
+| Gesamt: | | 10,5h |
+
+Woche **25** [17.06.2024 bis 23.06.2024]
+
+| **Datum**      | **Tätigkeit** | **Dauer** |
+| :------------: | :-----------: | :-------: |
+| 18.06.2024 | Meeting mit Simon zur Darstellung und Nutzung von Trades | 3h |
+
