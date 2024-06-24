@@ -83,4 +83,13 @@ Woche **25** [17.06.2024 bis 23.06.2024]
 | **Datum**      | **Tätigkeit** | **Dauer** |
 | :------------: | :-----------: | :-------: |
 | 18.06.2024 | Meeting mit Simon zur Darstellung und Nutzung von Trades | 3h |
+| 19.06.2024 | Wöchentliches Meeting | 2h |
+| 20.06.2024 | Meeting mit Simon zum Trading-Design | 2h |
+| 23.06.2024 | Meeting zum Testen von Dashboard/Trades | 5h |
+| Gesamt: | | 12h |
+
+Woche **26** [24.06.2024 bis 30.06.2024]
+
+| **Datum**      | **Tätigkeit** | **Dauer** |
+| :------------: | :-----------: | :-------: |
 
