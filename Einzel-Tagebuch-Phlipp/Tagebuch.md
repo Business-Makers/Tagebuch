@@ -92,4 +92,5 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 
 | **Datum**      | **Tätigkeit** | **Dauer** |
 | :------------: | :-----------: | :-------: |
+| 24.06.2024 | Meeting: Dashboard gefixed, Trades angefangen zu reparieren | 3h |
 
