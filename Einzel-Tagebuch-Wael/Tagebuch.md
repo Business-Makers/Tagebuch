@@ -96,5 +96,6 @@ Woche **25** [17.06.2024 bis 23.06.2024]
 Woche **26** [24.06.2024 bis 30.06.2024]
 | **Datum**              | **Tätigkeit** | **Dauer** |
 | :---------------- | :------: | ----: |
-| 23.06.2024         |   Meeting, Dashboard | 4 h |
-|     **Gesamt**     |    | 4 h |
+| 24.06.2024         |   Meeting, Dashboard | 4 h |
+| 25.06.2024         |   PDF, Softwareanforderungsspezifikation  | 4 h |
+|     **Gesamt**     |    | 8 h |
