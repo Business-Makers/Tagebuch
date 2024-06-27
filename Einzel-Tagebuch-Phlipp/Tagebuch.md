@@ -93,4 +93,7 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 | **Datum**      | **Tätigkeit** | **Dauer** |
 | :------------: | :-----------: | :-------: |
 | 24.06.2024 | Meeting: Dashboard gefixed, Trades angefangen zu reparieren | 3h |
+| 26.06.2024 | Wöchentliches Meeting: Aurela Namo Kenne aus der Gruppe geworfen, kurzfristige Neustrukturierung des Ablaufs | 3,5h |
+| 26.06.2024 | Auswahl der Exchanges im Trading-Bereich angepasst | 1h|
+| 27.06.2024 | Bugfixing und Trade-History vorbereitet | 1,5h |
 
