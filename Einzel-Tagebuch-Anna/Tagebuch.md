@@ -26,5 +26,9 @@
 | 07.06.2024     |  Token fuer Trades ueberarbeitet und SMTP Registrierungs Fehler behoben  |  3h |
 | 09.06.2024     |  Bug fixes & Versuch Pytest = gescheitert> |  7.0 |
 | 10.06.2024     |  Bug fixes |  3.5h |
-| 14.06.2024     |  Beginn Trades bzw primaer webSocket  |  0.5h |
+| 14.06.2024     |  Beginn Trades bzw primaer webSocket  |  2.5h |
+| 15.06.2024     |  Threading, Websocket |  3.5h |
+| 23.06.2024     |  Bug fixes Dashboard mit Frontend zusammen |  4.0h |
+| 24.06.2024     |  weiter Dashboard Fix und Beginn Trade refactoring |  4.5 |
+| 27.06.2024     |  Trade Entity Bug Fix Versuch |  3.5h |
 ---
