@@ -99,4 +99,5 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 | 24.06.2024         |   Meeting, Dashboard | 4 h |
 | 25.06.2024         |   PDF, Softwareanforderungsspezifikation  | 4 h |
 | 27.06.2024         |   Paypal testing mit Simon, Meeting  | 6 h |
-|     **Gesamt**     |    | 14 h |
+| 28.06.2024         |   Paypal testing mit Simon, Meeting, Jenkins, Docker-compose  | 10 h |
+|     **Gesamt**     |    | 24 h |
