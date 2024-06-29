@@ -98,4 +98,5 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 | 27.06.2024 | Bugfixing und Trade-History vorbereitet | 1,5h |
 | 28.06.2024 | Troubleshooting bei Trades | 4h |
 | 29.06.2024 | Testklassen & Kommentare hinzugefügt, Graphiken bei Dashboard wieder hinzugefügt | 2h |
+| 29.06.2024 | Meeting mit Simon - Besprechung des Servers | 0,5h |
 
