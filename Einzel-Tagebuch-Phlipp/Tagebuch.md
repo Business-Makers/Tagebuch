@@ -43,12 +43,12 @@ Woche **21** [20.05.2024 bis 26.05.2024]
 | 21.05.2024 | CSS- und Formatierungs-Probleme gelöst | 2h |
 | 21.05.2024 | Versuchte Implementierung des Logins mit Wael | 4h |
 | 22.05.2024 | Login im Frontend fertiggestellt | 1h |
-| 22.05.2024 | Wöchentliches Meeting - Vorbereitung der Vorstellung vom MVP | 1h |
-| 22.05.2024 | Frontend-Implementierung der Registrierung | 1.5h |
+| 22.05.2024 | Wöchentliches Meeting - Vorbereitung der Vorstellung vom MVP | 2h |
+| 22.05.2024 | Frontend-Implementierung der Registrierung | 2.5h |
 | 23.05.2024 | Meeting mit Simon zum Mergen der beiden Frontend-Branches | 1h |
 | 24.05.2024 | Implementierung von Testklassen | 2h |
 | 24.05.2024 | Meeting mit Simon zum Dokumentieren und Bearbeitung der Subscription | 3h |
-| Gesamt: | | 17.5h |
+| Gesamt: | | 19.5h |
 
 Woche **22** [27.05.2024 bis 02.06.2024]
 
@@ -56,16 +56,16 @@ Woche **22** [27.05.2024 bis 02.06.2024]
 | :------------: | :-----------: | :-------: |
 | 27.05.2024 | Meeting mit Brunsmann bezüglich MVP | 1h |
 | 01.06.2024 | Meeting mit Simon und Wael zur Implementierung der Exchanges - währenddessen Ordnerstruktur und CSS überarbeitet | 5h |
-| 02.06.2024 | Verbesserung der Exchange-Struktur im Dashboard | 2h |
-| Gesamt: | | 8h |
+| 02.06.2024 | Verbesserung der Exchange-Struktur im Dashboard | 4h |
+| Gesamt: | | 10h |
 
 Woche **23** [03.06.2024 bis 09.06.2024]
 
 | **Datum**      | **Tätigkeit** | **Dauer** |
 | :------------: | :-----------: | :-------: |
-| 05.06.2024 | Ordnerstruktur verbessert und Testklassen hinzugefügt/bearbeitet | 4h |
+| 05.06.2024 | Ordnerstruktur verbessert und Testklassen hinzugefügt/bearbeitet | 6h |
 | 09.06.2024 | Gruppenmeeting, um den Exchange im Frontend anzuzeigen | 5h |
-| Gesamt: | | 9h |
+| Gesamt: | | 11h |
 
 Woche **24** [10.06.2024 bis 16.06.2024]
 
@@ -73,10 +73,10 @@ Woche **24** [10.06.2024 bis 16.06.2024]
 | :------------: | :-----------: | :-------: |
 | 10.06.2024 | Vorbereitung aufs Meeting | 3h |
 | 10.06.2024 | Meeting mit Brunsmann | 1h |
-| 10.06.2024 | Nachbereitung des Meetings, Besprechung der nächsten Schritte | 1h |
-| 12.06.2024 | Wöchentliches Meeting | 1,5h |
+| 10.06.2024 | Nachbereitung des Meetings, Besprechung der nächsten Schritte | 2h |
+| 12.06.2024 | Wöchentliches Meeting | 2h |
 | 15.06.2024 | Meeting mit Simon zur Graphischen Darstellung des Dashboards | 4h |
-| Gesamt: | | 10,5h |
+| Gesamt: | | 12h |
 
 Woche **25** [17.06.2024 bis 23.06.2024]
 
@@ -85,8 +85,8 @@ Woche **25** [17.06.2024 bis 23.06.2024]
 | 18.06.2024 | Meeting mit Simon zur Darstellung und Nutzung von Trades | 3h |
 | 19.06.2024 | Wöchentliches Meeting | 2h |
 | 20.06.2024 | Meeting mit Simon zum Trading-Design | 2h |
-| 23.06.2024 | Meeting zum Testen von Dashboard/Trades | 5h |
-| Gesamt: | | 12h |
+| 23.06.2024 | Meeting zum Testen von Dashboard/Trades | 6h |
+| Gesamt: | | 13h |
 
 Woche **26** [24.06.2024 bis 30.06.2024]
 
@@ -96,4 +96,6 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 | 26.06.2024 | Wöchentliches Meeting: Aurela Namo Kenne aus der Gruppe geworfen, kurzfristige Neustrukturierung des Ablaufs | 3,5h |
 | 26.06.2024 | Auswahl der Exchanges im Trading-Bereich angepasst | 1h|
 | 27.06.2024 | Bugfixing und Trade-History vorbereitet | 1,5h |
+| 28.06.2024 | Troubleshooting bei Trades | 4h |
+| 29.06.2024 | Testklassen & Kommentare hinzugefügt, Graphiken bei Dashboard wieder hinzugefügt | 2h |
 
