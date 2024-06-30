@@ -99,4 +99,10 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 | 28.06.2024 | Troubleshooting bei Trades | 4h |
 | 29.06.2024 | Testklassen & Kommentare hinzugefügt, Graphiken bei Dashboard wieder hinzugefügt | 2h |
 | 29.06.2024 | Meeting mit Simon - Besprechung des Servers | 0,5h |
+| 29.06.2024 | Meeting mit Anna - Trades gefixed | 2h |
+| 30.06.2024 | Meeting - Textabgabe verfasst | 5h |
+| Gesamt: | | 22,5h |
+
+
+Insgesamt: 116,5h
 
