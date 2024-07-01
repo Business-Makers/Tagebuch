@@ -107,6 +107,7 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 ---
 Woche **27** [31.06.2024 bis 05.07.2024]
 | **Datum**              | **Tätigkeit** | **Dauer** |
+| :---------------- | :------: | ----: |
 | 31.06.2024         |   Paypal testing mit Simon, Jenkins  | 5 h |
 | 01.07.2024         |   Paypal testing mit Simon (Done), | 6 h |
 |     **Gesamt**     |    | 11 h |
