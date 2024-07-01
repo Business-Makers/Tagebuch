@@ -101,5 +101,12 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 | 27.06.2024         |   Paypal testing mit Simon, Meeting  | 6 h |
 | 28.06.2024         |   Paypal testing mit Simon, Meeting, Jenkins, Docker-compose  | 10 h |
 | 29.06.2024         |   mit Anna und Philipp trades testen, mit Simon Docker auf server hochlade  | 10 h |
-| 28.06.2024         |   Paypal testing mit Simon, Meeting, Docker-compose mergen, PDF vorlage, Testing mit Anna und Philpp  | 7 h |
+| 30.06.2024         |   Paypal testing mit Simon, Meeting, Docker-compose mergen, PDF vorlage, Testing mit Anna und Philpp  | 7 h |
 |     **Gesamt**     |    | 41 h |
+
+---
+Woche **27** [31.06.2024 bis 05.07.2024]
+| **Datum**              | **Tätigkeit** | **Dauer** |
+| 31.06.2024         |   Paypal testing mit Simon, Jenkins  | 5 h |
+| 01.07.2024         |   Paypal testing mit Simon (Done), | 6 h |
+|     **Gesamt**     |    | 11 h |
