@@ -103,6 +103,13 @@ Woche **26** [24.06.2024 bis 30.06.2024]
 | 30.06.2024 | Meeting - Textabgabe verfasst | 5h |
 | Gesamt: | | 22,5h |
 
+Woche **27** [01.07.2024 bis 07.07.2024]
 
-Insgesamt: 116,5h
+| **Datum**      | **Tätigkeit** | **Dauer** |
+| :------------: | :-----------: | :-------: |
+| 01.07.2024 | Meeting mit Brunsmann und Nachbereitung des Meetings | 5h |
+| 02.07.2024 | Bugfixing und Graphen zum Dashboard hinzugefügt | 1h |
+
+
+Insgesamt: 122,5h
 
