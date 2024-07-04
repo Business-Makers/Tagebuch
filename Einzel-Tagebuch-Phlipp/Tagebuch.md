@@ -109,7 +109,9 @@ Woche **27** [01.07.2024 bis 07.07.2024]
 | :------------: | :-----------: | :-------: |
 | 01.07.2024 | Meeting mit Brunsmann und Nachbereitung des Meetings | 5h |
 | 02.07.2024 | Bugfixing und Graphen zum Dashboard hinzugefügt | 1h |
+| 04.07.2024 | Meeting mit Anna - Trades gefixed- hoffentlich final | 4h |
+| 04.07.2024 | Meeting mit Simon - CSS gefixed | 1,5h |
 
 
-Insgesamt: 122,5h
+Insgesamt: 128h
 
