@@ -57,5 +57,9 @@
 | 29.06.2024     |  Trade Entity Bug Fix Versuch |  2.5h |
 | 30.06.2024     | Login Bug Fix auf neuem Branch, Bugs Threading gefixt  |  5.0h |
 
-| Total 89.5h |
+| 01.07.2024     |  Bug Fixes, Nachbereitung Meeting |  6.0h |
+| 29.06.2024     |  Verusch Limit Trade Bug Fix -> geschietert |  1.5h |
+| 29.06.2024     |  Limit BUg gefixt, Trades anzeige gefixt und Pytests |  6.0h |
+
+| Total 95.5h |
 ---
