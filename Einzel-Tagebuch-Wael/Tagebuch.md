@@ -119,4 +119,10 @@ Woche **28** [06.07.2024 bis 12.07.2024]
 | **Datum**              | **Tätigkeit** | **Dauer** |
 | :---------------- | :------: | ----: |
 | 06.07.2024         |   CICD Tests, systemarchitektur, Tests zu Docker | 5 h |
-|     **Gesamt**     |    | 5 h |
+| 07.07.2024         |   Vorbeiteung (Vorstellung), Folien bearbeitet, Durchsclauf | 6 h |
+|     **Gesamt**     |    | 11 h |
+
+---
+
+| :---------------- | :------: | ----: |
+|     **Gesamt**     |    | 11 h |
